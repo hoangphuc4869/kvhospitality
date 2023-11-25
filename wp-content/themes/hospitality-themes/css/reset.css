@@ -1,0 +1,60 @@
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Jost', sans-serif;
+}
+
+ul,ol {
+	padding-left: 0;
+	margin-bottom: 0;
+	font-family: 'Jost', sans-serif;
+}
+
+input:focus {
+	outline: none;
+}
+
+textarea:focus {
+	outline: none;
+}
+
+select:focus {
+	outline: none;
+}
+
+/*input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}*/
+
+p {
+	font-family: 'Alegreya Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Alegreya Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.mr-top {
+	margin-top: 70px;
+}
+
+.mr-bottom {
+	margin-bottom: 70px;
+}
+
+.mr-bottom-2 {
+	margin-bottom: 40px;
+}
